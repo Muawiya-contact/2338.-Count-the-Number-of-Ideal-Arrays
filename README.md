@@ -92,7 +92,7 @@ Founder of [⚡ Coding Moves](https://www.youtube.com/@Coding_Moves)
 #📢 Stay Connected
 🔹 YouTube: <a href ="https://www.youtube.com/@Coding_Moves">@Coding_Moves </a>
 🔹 GitHub: <a href="https://github.com/Muawiya-contact">Muawiya-contact</a>
-🔹 LinkedIn: <a href="">Muawiya's Profile</a>
+🔹 LinkedIn: <a href="https://www.linkedin.com/in/contactmuawia">Muawiya's Profile</a>
 
 
 
